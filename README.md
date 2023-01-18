@@ -1,4 +1,4 @@
 # Simple-Rest-Api-without-Rest-Framework-Django
 
-Simple Rest-Api using django Core Serialize 
+Simple Rest-Api using django Core Serializer
 
